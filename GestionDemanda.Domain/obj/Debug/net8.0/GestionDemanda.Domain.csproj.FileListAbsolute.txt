@@ -1,0 +1,15 @@
+C:\Users\juanc\source\repos\GestionDemanda\GestionDemanda.Domain\bin\Debug\net8.0\GestionDemanda.Domain.deps.json
+C:\Users\juanc\source\repos\GestionDemanda\GestionDemanda.Domain\bin\Debug\net8.0\GestionDemanda.Domain.dll
+C:\Users\juanc\source\repos\GestionDemanda\GestionDemanda.Domain\bin\Debug\net8.0\GestionDemanda.Domain.pdb
+C:\Users\juanc\source\repos\GestionDemanda\GestionDemanda.Domain\obj\Debug\net8.0\GestionDemanda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanc\source\repos\GestionDemanda\GestionDemanda.Domain\obj\Debug\net8.0\GestionDemanda.Domain.AssemblyInfoInputs.cache
+C:\Users\juanc\source\repos\GestionDemanda\GestionDemanda.Domain\obj\Debug\net8.0\GestionDemanda.Domain.AssemblyInfo.cs
+C:\Users\juanc\source\repos\GestionDemanda\GestionDemanda.Domain\obj\Debug\net8.0\GestionDemanda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\juanc\source\repos\GestionDemanda\GestionDemanda.Domain\obj\Debug\net8.0\GestionDemanda.Domain.dll
+C:\Users\juanc\source\repos\GestionDemanda\GestionDemanda.Domain\obj\Debug\net8.0\refint\GestionDemanda.Domain.dll
+C:\Users\juanc\source\repos\GestionDemanda\GestionDemanda.Domain\obj\Debug\net8.0\GestionDemanda.Domain.pdb
+C:\Users\juanc\source\repos\GestionDemanda\GestionDemanda.Domain\obj\Debug\net8.0\ref\GestionDemanda.Domain.dll
+C:\Users\juanc\source\repos\GestionDemanda\GestionDemanda.Functions\bin\output\GestionDemanda.Domain.deps.json
+C:\Users\juanc\source\repos\GestionDemanda\GestionDemanda.Functions\bin\output\GestionDemanda.Domain.dll
+C:\Users\juanc\source\repos\GestionDemanda\GestionDemanda.Functions\bin\output\GestionDemanda.Domain.pdb
+C:\Users\juanc\source\repos\GestionDemanda\GestionDemanda.Domain\obj\Debug\net8.0\GestionDemanda.Domain.csproj.AssemblyReference.cache

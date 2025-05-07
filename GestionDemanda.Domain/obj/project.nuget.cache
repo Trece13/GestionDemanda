@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4UrYUfq0MG8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Domain\\GestionDemanda.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juanc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

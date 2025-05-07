@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8496B4F6-12CD-4EBD-BA41-8ADD92BCD969}|GestionDemanda.Infrastructure\\GestionDemanda.Infrastructure.csproj|c:\\users\\juanc\\source\\repos\\gestiondemanda\\gestiondemanda.infrastructure\\repositories\\solicitudrepositorycosmosdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8496B4F6-12CD-4EBD-BA41-8ADD92BCD969}|GestionDemanda.Infrastructure\\GestionDemanda.Infrastructure.csproj|solutionrelative:gestiondemanda.infrastructure\\repositories\\solicitudrepositorycosmosdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89DDEAA-D78A-48C2-AC00-26CCC711730D}|GestionDemanda.Application\\GestionDemanda.Application.csproj|c:\\users\\juanc\\source\\repos\\gestiondemanda\\gestiondemanda.application\\usecases\\registrarsolicitudhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89DDEAA-D78A-48C2-AC00-26CCC711730D}|GestionDemanda.Application\\GestionDemanda.Application.csproj|solutionrelative:gestiondemanda.application\\usecases\\registrarsolicitudhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FAB896-7F44-4118-AF9D-76F1FA81DA9F}|GestionDemanda.Functions\\GestionDemanda.Functions.csproj|c:\\users\\juanc\\source\\repos\\gestiondemanda\\gestiondemanda.functions\\functions\\registrarsolicitudfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FAB896-7F44-4118-AF9D-76F1FA81DA9F}|GestionDemanda.Functions\\GestionDemanda.Functions.csproj|solutionrelative:gestiondemanda.functions\\functions\\registrarsolicitudfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89DDEAA-D78A-48C2-AC00-26CCC711730D}|GestionDemanda.Application\\GestionDemanda.Application.csproj|c:\\users\\juanc\\source\\repos\\gestiondemanda\\gestiondemanda.application\\interfaces\\isolicitudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89DDEAA-D78A-48C2-AC00-26CCC711730D}|GestionDemanda.Application\\GestionDemanda.Application.csproj|solutionrelative:gestiondemanda.application\\interfaces\\isolicitudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8496B4F6-12CD-4EBD-BA41-8ADD92BCD969}|GestionDemanda.Infrastructure\\GestionDemanda.Infrastructure.csproj|c:\\users\\juanc\\source\\repos\\gestiondemanda\\gestiondemanda.infrastructure\\services\\azuredevopsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8496B4F6-12CD-4EBD-BA41-8ADD92BCD969}|GestionDemanda.Infrastructure\\GestionDemanda.Infrastructure.csproj|solutionrelative:gestiondemanda.infrastructure\\services\\azuredevopsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89DDEAA-D78A-48C2-AC00-26CCC711730D}|GestionDemanda.Application\\GestionDemanda.Application.csproj|c:\\users\\juanc\\source\\repos\\gestiondemanda\\gestiondemanda.application\\usecases\\consultarsolicitudeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89DDEAA-D78A-48C2-AC00-26CCC711730D}|GestionDemanda.Application\\GestionDemanda.Application.csproj|solutionrelative:gestiondemanda.application\\usecases\\consultarsolicitudeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FAB896-7F44-4118-AF9D-76F1FA81DA9F}|GestionDemanda.Functions\\GestionDemanda.Functions.csproj|c:\\users\\juanc\\source\\repos\\gestiondemanda\\gestiondemanda.functions\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7FAB896-7F44-4118-AF9D-76F1FA81DA9F}|GestionDemanda.Functions\\GestionDemanda.Functions.csproj|solutionrelative:gestiondemanda.functions\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FAB896-7F44-4118-AF9D-76F1FA81DA9F}|GestionDemanda.Functions\\GestionDemanda.Functions.csproj|c:\\users\\juanc\\source\\repos\\gestiondemanda\\gestiondemanda.functions\\properties\\servicedependencies\\coafunue2gdregd01 - zip deploy\\profile.arm.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7FAB896-7F44-4118-AF9D-76F1FA81DA9F}|GestionDemanda.Functions\\GestionDemanda.Functions.csproj|solutionrelative:gestiondemanda.functions\\properties\\servicedependencies\\coafunue2gdregd01 - zip deploy\\profile.arm.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FAB896-7F44-4118-AF9D-76F1FA81DA9F}|GestionDemanda.Functions\\GestionDemanda.Functions.csproj|c:\\users\\juanc\\source\\repos\\gestiondemanda\\gestiondemanda.functions\\properties\\servicedependencies\\coafunue2gdregd01 - zip deploy\\appinsights1.arm.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7FAB896-7F44-4118-AF9D-76F1FA81DA9F}|GestionDemanda.Functions\\GestionDemanda.Functions.csproj|solutionrelative:gestiondemanda.functions\\properties\\servicedependencies\\coafunue2gdregd01 - zip deploy\\appinsights1.arm.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FAB896-7F44-4118-AF9D-76F1FA81DA9F}|GestionDemanda.Functions\\GestionDemanda.Functions.csproj|c:\\users\\juanc\\source\\repos\\gestiondemanda\\gestiondemanda.functions\\properties\\servicedependencies\\coafunue2gdregd01 - zip deploy\\storage1.arm.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7FAB896-7F44-4118-AF9D-76F1FA81DA9F}|GestionDemanda.Functions\\GestionDemanda.Functions.csproj|solutionrelative:gestiondemanda.functions\\properties\\servicedependencies\\coafunue2gdregd01 - zip deploy\\storage1.arm.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FAB896-7F44-4118-AF9D-76F1FA81DA9F}|GestionDemanda.Functions\\GestionDemanda.Functions.csproj|c:\\users\\juanc\\source\\repos\\gestiondemanda\\gestiondemanda.functions\\properties\\publishprofiles\\coafunue2gdregd01 - zip deploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7FAB896-7F44-4118-AF9D-76F1FA81DA9F}|GestionDemanda.Functions\\GestionDemanda.Functions.csproj|solutionrelative:gestiondemanda.functions\\properties\\publishprofiles\\coafunue2gdregd01 - zip deploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISolicitudRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Application\\Interfaces\\ISolicitudRepository.cs",
+              "RelativeDocumentMoniker": "GestionDemanda.Application\\Interfaces\\ISolicitudRepository.cs",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Application\\Interfaces\\ISolicitudRepository.cs",
+              "RelativeToolTip": "GestionDemanda.Application\\Interfaces\\ISolicitudRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:29:21.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SolicitudRepositoryCosmosDb.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Infrastructure\\Repositories\\SolicitudRepositoryCosmosDb.cs",
+              "RelativeDocumentMoniker": "GestionDemanda.Infrastructure\\Repositories\\SolicitudRepositoryCosmosDb.cs",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Infrastructure\\Repositories\\SolicitudRepositoryCosmosDb.cs",
+              "RelativeToolTip": "GestionDemanda.Infrastructure\\Repositories\\SolicitudRepositoryCosmosDb.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAArwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:11:42.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrarSolicitudHandler.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Application\\UseCases\\RegistrarSolicitudHandler.cs",
+              "RelativeDocumentMoniker": "GestionDemanda.Application\\UseCases\\RegistrarSolicitudHandler.cs",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Application\\UseCases\\RegistrarSolicitudHandler.cs",
+              "RelativeToolTip": "GestionDemanda.Application\\UseCases\\RegistrarSolicitudHandler.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADgvzQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:11:42.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrarSolicitudFunction.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Functions\\Functions\\RegistrarSolicitudFunction.cs",
+              "RelativeDocumentMoniker": "GestionDemanda.Functions\\Functions\\RegistrarSolicitudFunction.cs",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Functions\\Functions\\RegistrarSolicitudFunction.cs",
+              "RelativeToolTip": "GestionDemanda.Functions\\Functions\\RegistrarSolicitudFunction.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAArwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:11:42.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsultarSolicitudesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Application\\UseCases\\ConsultarSolicitudesHandler.cs",
+              "RelativeDocumentMoniker": "GestionDemanda.Application\\UseCases\\ConsultarSolicitudesHandler.cs",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Application\\UseCases\\ConsultarSolicitudesHandler.cs",
+              "RelativeToolTip": "GestionDemanda.Application\\UseCases\\ConsultarSolicitudesHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:38:35.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AzureDevOpsService.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Infrastructure\\Services\\AzureDevOpsService.cs",
+              "RelativeDocumentMoniker": "GestionDemanda.Infrastructure\\Services\\AzureDevOpsService.cs",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Infrastructure\\Services\\AzureDevOpsService.cs",
+              "RelativeToolTip": "GestionDemanda.Infrastructure\\Services\\AzureDevOpsService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:38:35.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Functions\\local.settings.json",
+              "RelativeDocumentMoniker": "GestionDemanda.Functions\\local.settings.json",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Functions\\local.settings.json",
+              "RelativeToolTip": "GestionDemanda.Functions\\local.settings.json",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAhwBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T17:07:18.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "storage1.arm.json",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Functions\\Properties\\ServiceDependencies\\COAFUNUE2GDREGD01 - Zip Deploy\\storage1.arm.json",
+              "RelativeDocumentMoniker": "GestionDemanda.Functions\\Properties\\ServiceDependencies\\COAFUNUE2GDREGD01 - Zip Deploy\\storage1.arm.json",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Functions\\Properties\\ServiceDependencies\\COAFUNUE2GDREGD01 - Zip Deploy\\storage1.arm.json",
+              "RelativeToolTip": "GestionDemanda.Functions\\Properties\\ServiceDependencies\\COAFUNUE2GDREGD01 - Zip Deploy\\storage1.arm.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T04:09:37.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "COAFUNUE2GDREGD01 - Zip Deploy.pubxml",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Functions\\Properties\\PublishProfiles\\COAFUNUE2GDREGD01 - Zip Deploy.pubxml",
+              "RelativeDocumentMoniker": "GestionDemanda.Functions\\Properties\\PublishProfiles\\COAFUNUE2GDREGD01 - Zip Deploy.pubxml",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Functions\\Properties\\PublishProfiles\\COAFUNUE2GDREGD01 - Zip Deploy.pubxml",
+              "RelativeToolTip": "GestionDemanda.Functions\\Properties\\PublishProfiles\\COAFUNUE2GDREGD01 - Zip Deploy.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-07T04:09:26.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "profile.arm.json",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Functions\\Properties\\ServiceDependencies\\COAFUNUE2GDREGD01 - Zip Deploy\\profile.arm.json",
+              "RelativeDocumentMoniker": "GestionDemanda.Functions\\Properties\\ServiceDependencies\\COAFUNUE2GDREGD01 - Zip Deploy\\profile.arm.json",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Functions\\Properties\\ServiceDependencies\\COAFUNUE2GDREGD01 - Zip Deploy\\profile.arm.json",
+              "RelativeToolTip": "GestionDemanda.Functions\\Properties\\ServiceDependencies\\COAFUNUE2GDREGD01 - Zip Deploy\\profile.arm.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T04:09:40.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appInsights1.arm.json",
+              "DocumentMoniker": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Functions\\Properties\\ServiceDependencies\\COAFUNUE2GDREGD01 - Zip Deploy\\appInsights1.arm.json",
+              "RelativeDocumentMoniker": "GestionDemanda.Functions\\Properties\\ServiceDependencies\\COAFUNUE2GDREGD01 - Zip Deploy\\appInsights1.arm.json",
+              "ToolTip": "C:\\Users\\juanc\\source\\repos\\GestionDemanda\\GestionDemanda.Functions\\Properties\\ServiceDependencies\\COAFUNUE2GDREGD01 - Zip Deploy\\appInsights1.arm.json",
+              "RelativeToolTip": "GestionDemanda.Functions\\Properties\\ServiceDependencies\\COAFUNUE2GDREGD01 - Zip Deploy\\appInsights1.arm.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T04:09:42.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
